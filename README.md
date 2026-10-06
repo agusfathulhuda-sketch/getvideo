@@ -18,7 +18,7 @@ Download video secara massal dari daftar URL di file Excel (`.xlsx`) atau CSV me
 ## Instalasi
 
 ```bash
-git clone https://github.com/<username>/getvideo.git
+git clone https://github.com/agusfathulhuda-sketch/getvideo.git
 cd getvideo
 python -m venv venv
 venv\Scripts\activate        # Windows
